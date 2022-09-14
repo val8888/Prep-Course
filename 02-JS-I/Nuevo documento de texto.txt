@@ -1,0 +1,3 @@
+Variable: La funcion de las variables es guardar algo en un "lugar" osea el nombre simbolico 
+que va a llevar la variable para despues recuperar y acceder eso que guardamos dentro
+Spring: Tiene la funcion de representar texto y va entre comillas "
